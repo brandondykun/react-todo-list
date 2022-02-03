@@ -4,7 +4,7 @@
 
 - A simple to do list created to learn React!
 
-- React front end with json-server mock backend.
+- React front end with json-server mock back end.
 
 
 
